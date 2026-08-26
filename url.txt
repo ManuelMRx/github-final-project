@@ -3,3 +3,4 @@ https://github.com/ManuelMRx/github-final-project
 https://github.com/ManuelMRx/github-final-project/blob/main/LICENSE
 https://github.com/ManuelMRx/github-final-project/blob/main/CODE_OF_CONDUCT.md
 https://github.com/ManuelMRx/github-final-project/blob/main/CONTRIBUTING.md
+https://github.com/ManuelMRx/github-final-project/blob/main/simple-interest.sh
